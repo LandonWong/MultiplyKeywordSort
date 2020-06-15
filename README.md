@@ -15,8 +15,8 @@
 + Support csv form file reading and writing, convenient for users to use
 + User friendly and interactive command line interface
 ## Usage
-Enter the file directory and execute\
+Enter the file directory and execute
 `./run`\
 If terminal tells you`bash: ./run: Permission denied`,
-Please execute\
+Please execute
 `chmod +x run`
